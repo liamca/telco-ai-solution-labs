@@ -20,8 +20,10 @@ A fully compliant Model Context Protocol (MCP) server built in Node.js for Telco
 
 ## 📘 MCP Endpoint
 
-All JSON-RPC messages must be sent to the MCP endpoint:
+All JSON-RPC messages must be sent to the MCP endpoint
+```bash
 POST http://localhost:3000/mcp
+```
 
 ### Required Headers
 ```http
