@@ -14,9 +14,11 @@ Most of all, the goal is to have fun and try to learn something new!
 
 ## Tasks
 
+> **Note:** Task 1 is **mandatory** for all participants. Additionally, please choose **any 2** of Tasks 2, 3, or 4 to complete.
+
 | Task | Description | Folder |
 |------|-------------|--------|
-| **Task 1** | Knowledge Retrieval - Build a RAG pipeline for document processing | [task1-Knowledge-Retrieval](./task1-Knowledge-Retrieval/) |
+| **Task 1** ⭐ | Knowledge Retrieval - Build a RAG pipeline for document processing | [task1-Knowledge-Retrieval](./task1-Knowledge-Retrieval/) |
 | **Task 2** | Competitive Deal Readiness Agent - Build a multi-agent system for sales support | [task2-Deal-Readiness-Agent](./task2-Deal-Readiness-Agent/) |
 | **Task 3** | MCP Service Desk - Build an MCP server for telco service ticket management | [task3-MCP-Service-Desk](./task3-MCP-Service-Desk/) |
 | **Task 4** | MCP Customer360 - Build an MCP server for customer info, billing, and location data | [task4-MCP-Customer360](./task4-MCP-Customer360/) |
