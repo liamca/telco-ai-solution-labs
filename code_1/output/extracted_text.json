@@ -1,0 +1,152 @@
+[
+  {
+    "page_number": 1,
+    "text": "User\nGuide\nKVD21\n5G Gateway",
+    "char_count": 27,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 2,
+    "text": "Release 1.0.0\nManufacturer Arcadyan Technology Corporation\nNo.8, Sec.2, Guangfu Rd.,Hsinchu City 30071, Taiwan\nImport from Arcadyan Technology Corporation\nDistributor T-Mobile, Inc.\n©T-Mobile USA, Inc. All rights reserved.\nT-Mobile, the T logo, Magenta, the magenta color and the T-Mobile Internet\nlogo are registered trademarks of Deutsche Telekom AG.",
+    "char_count": 352,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 3,
+    "text": "T-Mobile 5G Gateway User Guide\nContents\nSafety Guidelines ..............................................................................................................................5\nPotential Equipment Damage ...................................................................................................5\nRisk of Electric Shock or Fire .....................................................................................................5\nIntroduction .......................................................................................................................................6\nGetting to Know Your T-Mobile 5G Gateway ...............................................................................6\nPhysical Interfaces.......................................................................................................................7\nSetting up the T-Mobile 5G Gateway ............................................................................................7\nRecommended Setup: Use the Mobile App.............................................................................7\nManual Setup: Identify An Ideal Location ...............................................................................8\nConnecting Power to the T-Mobile 5G Gateway ...............................................................8\nStarting the T-Mobile 5G Gateway .......................................................................................9\nConnecting Devices .........................................................................................................................9\nConnecting Wi-Fi Devices ..........................................................................................................9\nConnecting Ethernet Devices ....................................................................................................9\nViewing Connected Devices ....................................................................................................10\nAccessing Your Web GUI (Graphical User Interface) ................................................................10\nHome Screen ..............................................................................................................................11\nLanguage Selection ..............................................................................................................12\nWi-Fi Networks Screen .........................................................................................................12\nReplacing the SIM Card .................................................................................................................17\nResetting the T-Mobile 5G Gateway ..................................................................................18\nPage 3\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 2922,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 4,
+    "text": "T-Mobile 5G Gateway User Guide\nTroubleshooting ..............................................................................................................................19\nNo Signal ......................................................................................................................................19\nPrevent Overheating ..................................................................................................................19\nT-Mobile 5G Gateway Does Not Start ....................................................................................19\nPoor Internet Experience ..........................................................................................................19\nForget Your Admin Password? .................................................................................................19\nUnderstanding the LCD .................................................................................................................19\nConnection .................................................................................................................................20\nDevices........................................................................................................................................20\nMessages .....................................................................................................................................21\nLanguage Settings ....................................................................................................................23\nTechnical Specifications ...............................................................................................................24\nTerms and Conditions ...................................................................................................................25\nPrivacy Policy .................................................................................................................................25\nCustomer Support .........................................................................................................................25\nPage 4\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 2271,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 5,
+    "text": "T-Mobile 5G Gateway User Guide\nSafety Guidelines\nPotential Equipment Damage\nFollow these recommendations to protect yourself and the Product from harm:\nż Use the Product only in upright position as shown in the Quick Start Guide\nż Do not insert any sharp object into the openings of the Product\nż Do not put the Product near a heat source\nż Avoid placing the Product in direct sunlight\nż Do not put the Product in damp or wet locations; for example, near a bathtub, washbowl,\nkitchen sink or laundry tub, in a wet basement, or near a swimming pool. Do not spill any liquid\non the Product\nż Do not touch the Product or its power adapter or cord with wet hands\nż Do not place the Product on an unstable surface or support\nż Do not place anything on top of the Product\nż Do not use liquid or aerosol cleaners; unplug the Product and use a soft, dry cloth for cleaning\nż When connecting a PC or other electronic device to the Product, make sure you use the right\ncables and connect the device to the right port of the Product\nż Incorrect connections may damage the device and/or the Product\nż Do not open or try to open the Product\nż Opening or removing covers can expose you to dangerous high voltage points or other risks\nż Do not attempt to access, manipulate, insert foreign objects into, remanufacture, or immerse\nor otherwise expose it to water\nż Do apply care to avoid accidental drops along with the Product\nż If the T-Mobile 5G Gateway is dropped—especially on a hard surface—or in the case of\nsuspected damage, contact your nearest T-Mobile service center for inspection\nRisk of Electric Shock or Fire\nFollow these guidelines when using the T-Mobile 5G Gateway:\nż Connect the Product power adapter or cord to the right supply voltage (120V AC in USA)\nż Pay attention to the power load of the electrical outlet and possible extension cord\nż An overburdened power outlet or damaged cords and plugs may cause electric shock or fire\nż Check the power cords regularly. If you find any damage, replace the cord immediately\nż Do not connect the plug into an extension cord, receptacle, or other outlet unless the plug can\nbe fully inserted with no part of the blades exposed\nż Leave adequate space for heat dissipation to avoid any damage caused by overheating the\nProduct\nPage 5\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 2424,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 6,
+    "text": "T-Mobile 5G Gateway User Guide\nż Do not cover the Product or its ventilation holes. Blocking the ventilation holes may cause fire\nż Use the power adapter provided with your Product and do not fasten the power cable to\nbuilding surfaces\nż Ensure the cable can move freely. Do not place heavy objects on the cable\nż Do not use the Product outside, and make sure all the connections are indoors\nż Do not install, use, or service this Product during a thunderstorm\nż There is a remote risk of electric shock from lightning\nż The standby power consumption of the Product is 4.5W\nIntroduction\nThis document explains how to operate the T-Mobile 5G Gateway at home using visual cues to\nachieve the best placement and performance.\nNOTE\nThis document is a supplement to the Quick Start Guide and T-Mobile Internet mobile app. Use the\nQuick Start Guide to get up and running quickly.\nThe contents of this guide are subject to change without notice.\nGetting to Know Your T-Mobile 5G Gateway\nYou will find the following items in the box:\nż Gateway\nż Power adapter\nż Quick Start Guide\nż T-Mobile Terms and Conditions\nż Safety and Regulatory Notice\nThe gateway offers 4G/LTE or 5G/NR WAN mobile network connectivity by way of four wide band\nOMNI antennas that supports all LTE/5G bands. It functions as the connection point between the\nWAN outside your home and the LAN inside your home.\nPage 6\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 1525,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 7,
+    "text": "T-Mobile 5G Gateway User Guide\nPhysical Interfaces\nThe gateway’s physical interfaces include those shown in the diagram.\nSetting up the T-Mobile 5G Gateway\nRecommended Setup: Use the Mobile App\nUsing the Quick Start Guide and the T-Mobile Internet mobile app provides the easiest setup\nexperience. The T-Mobile Internet mobile app can be downloaded from either Google Play or the\nApp Store.\nNOTE\nThe first time you access your gateway, the “How to navigate this interface” displays on the LCD\npanel. Select “OK” to continue the start up.\nDownload and install Mobile app using your smart phone, then the Mobile app establishes\ncommunication and connects to the gateway.\nPage 7\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 821,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 8,
+    "text": "T-Mobile 5G Gateway User Guide\nManual Setup: Identify An Ideal Location\nYou will start by identifying the ideal location for your gateway — that location will meet the\nfollowing criteria:\nż Near a window where the signal strength is strongest\nż In an open space away from:\n• Walls or obstructions\n• Heavy-duty appliances or electronics such as microwave ovens and baby monitors\n• Metal fixtures, enclosures, cabinets, reinforced concrete, or pipes\nż Near a power outlet\nż On an upper floor of the home or at least 6 feet off the floor\nConnecting Power to the T-Mobile 5G Gateway\nż Place the gateway on a flat surface, such as a tabletop or similar; close to a window and near\nan electrical outlet\nż Minimize the number of obstructions as much as possible\nż Connect the gateway’s USB Type-C power cable to its Power port, then plug the other end of\nthe power cable into a grounded electrical outlet\nż The USB Type-C power cable must be capable of supporting 100–240V (volts) AC adapter,\n50–60Hz frequency and 3A of current at DC 15V\nPage 8\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 1184,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 9,
+    "text": "T-Mobile 5G Gateway User Guide\nStarting the T-Mobile 5G Gateway\nAfter the gateway is connected to a power source, the LCD screen displays an animated T-Mobile\nlogo that indicates the gateway is starting up.\nFour small dots displayed on the LCD panel indicates available screens. Take a moment to browse\nthese screens to see what information is available. For more information about the LCD screen\ndisplay, refer to the section “Understanding the LCD” on page 19.\nThe start up sequence is complete when the LCD shows:\nż Connection\nż Devices\nż Messages\nż Language\nConnecting Devices\nConnecting Wi-Fi Devices\nConnect your wireless devices to your network using the Wi-Fi SSID (Wi-Fi name) and Wi-Fi Key\n(Wi-Fi password), which are found on the gateway’s rear panel. Here is an example of the label:\nConnecting Ethernet Devices\nThe gateway has two (2) Ethernet LAN ports. Use an Ethernet cable to connect devices that don’t\nhave Wi-Fi adapters or capabilities.\nPage 9\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 1109,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 10,
+    "text": "T-Mobile 5G Gateway User Guide\nViewing Connected Devices\nThe Devices LCD screen on the front of the gateway shows the number of devices currently\nconnected to the network by way of either Wi-Fi or Ethernet.\nTo view how many devices are connected:\n1. Observe the LCD Connection screen\n2. Press the right arrow on the LCD panel to display the Devices screen\nAccessing Your Web GUI (Graphical User\nInterface)\nNOTE\nYou can configure the gateway and any connected client devices via the T-Mobile Internet mobile\napp on a smartphone.\nEnsure the Local Area Connection setting on your PC, laptop, smart phone, or tablet is configured\nto obtain an IP address automatically.\nOn your device, open a web browser, and enter http://192.168.12.1\nNOTE\nIf you are unable to access the GUI at the above address, please contact customer support.\nPage 10\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 980,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 11,
+    "text": "T-Mobile 5G Gateway User Guide\nHome Screen\nYou should now see the dashboard screen, which provides network connection status and\ninformation about the gateway.\nThe Home screen contains five sections: internet connection status, connection quality of cellular\nsignal strength, gateway information, Wi-Fi networks settings, and the QR code of T-Mobile Internet\nmobile app.\nż Connection status: shows network status of the connected devices, the gateway, and the\ncellular network connection\nż Connection quality: cellular signal strength is represented by number of bars\nż Gateway information\n• Firmware version: variable\n• UI version: variable\n• Running time: how long it has been since the gateway’s last reset/power-cycle\n• Serial number: variable\nPage 11\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 901,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 12,
+    "text": "T-Mobile 5G Gateway User Guide\nż Wi-Fi networks settings: gives you a way to manage and configure wireless settings on the\n2.4GHz and 5GHz networks\nż T-Mobile Internet mobile app: scanning the QR code with your smart phone for the easiest\nsetup experience\nNOTE\nThe advanced settings are not available with this version release of the web GUI.\nLanguage Selection\nFrom the GUI’s top-right corner of the screen, select your preferred language, English or Español,\nfrom the dropdown menu for user interface language.\nWi-Fi Networks Screen\nAccessing the Wi-Fi networks from the web GUI’s main\nmenu gives you a way to manage and configure wireless\nsettings on your Wi-Fi networks.\nFirst you must login using admin credentials (password).\nClick on Where is my password? on the screen to show\nyour default administrator password located on the\ngateway label.\nProvide administrator password and click Log in.\nPage 12\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 1053,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 13,
+    "text": "T-Mobile 5G Gateway User Guide\nClicking Manage Wi-Fi Networks from the Wi-Fi networks menu gives you a way to manage and\nconfigure Wi-Fi settings on your networks.\nPage 13\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 317,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 14,
+    "text": "T-Mobile 5G Gateway User Guide\nThe Wi-Fi Networks screen contains the following options:\nż Combined/Automatic (Recommended): provides the best Wi-Fi connection to the connected\ndevices with automatic selection of the radio frequency (2.4 GHz or 5 GHz). Your T-Mobile\nmesh network has the single Wi-Fi network enabled by default and this is recommended for\nmost users\nż Separate Networks: you also can configure the following SSID-specific settings for different\ntypes of Wi-Fi devices\n• 2.4 GHz radio frequency\n• 5 GHz radio frequency\nClick Learn more to see detailed information about the use of appropriate frequency for the Wi-Fi\ndevices on your network.\nTo create a new Wi-Fi network:\n1. The 2.4GHz and 5GHz options become available by selecting Separate Networks\n2. Configure the following Wi-Fi settings for the new network\nSetting Options\nNetwork Name Enter SSID (Service Set Identifier) name.\nPassword Enter a Wi-Fi password.\nYou can click the eye icon to view the password.\nNOTE\nThe gateway automatically steers client devices to the best band and channel combination for\nmost situations.\nPage 14\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 1251,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 15,
+    "text": "T-Mobile 5G Gateway User Guide\n3. Click Save Changes to save the settings\nPage 15\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 227,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 16,
+    "text": "T-Mobile 5G Gateway User Guide\n4. Click OK to finish the Wi-Fi network configuration and the Home screen will be displayed\nPage 16\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 276,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 17,
+    "text": "T-Mobile 5G Gateway User Guide\nReplacing the SIM Card\nThe gateway comes with a pre-installed SIM card. You can replace the SIM card by pressing the\ncard into the card slot.\nBefore replacing the SIM card, please read the following safety information.\nDanger 1: Hazardous electrical voltages and currents can cause serious physical harm or\n! death. Always use insulated tools and follow proper safety precautions when connecting\nor disconnecting power circuits.\nDanger 2: Ensure the gateway’s power supply is unplugged from the power strip or wall\noutlet before proceeding.\nCaution: Keep indoor devices out of direct sunlight. Prolonged exposure to direct\n! sunlight can damage the device.\nRefer to the section “Technical Specifications” for the gateway’s operating temperature\nranges.\nAccess the SIM card from the backside of the gateway.\n1. Power off the gateway by removing the power cable from the gateway and from the electrical\noutlet\n2. Remove any Ethernet cables connected to the gateway’s LAN ports (LAN1 and LAN 2)\n3. Use the finger pull to open the SIM door\n4. The SIM card socket supports push-in and push-out installation\nPage 17\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 1286,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 18,
+    "text": "T-Mobile 5G Gateway User Guide\n5. With the SIM door open, press the pre-installed SIM card into the slot and the SIM card pops\nout\n6. Carefully remove the pre-installed SIM card\n7. Insert and press the new SIM card into the slot\n8. Be sure the SIM card clicks into place to ensure that it is properly installed\n9. Close the cover of the SIM card slot and ensure the cover is securely closed on the SIM door\nResetting the T-Mobile 5G Gateway\nResetting the T-Mobile 5G Gateway to factory default deletes all configuration changes made since\nsetup.\nUsing the Reset Port\nYou can reset the gateway using a paperclip and the Reset port, which is located on the device’s\nbackside.\n1. Press-and-hold a paperclip in the Reset port for 5 seconds\n2. Withdraw the paperclip. LCD shows:\n• Factory reset in progress\n• T-Mobile animated logo\n• Power up animation\n3. On the LCD, press OK on the LCD panel and you will see the Connection screen\nPage 18\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 1081,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 19,
+    "text": "T-Mobile 5G Gateway User Guide\nTroubleshooting\nNo Signal\nThis LCD alert indicates there is no network signal, which could mean local cellular equipment is\ndown for any number of reasons, or the gateway may need to be re- positioned.\nIf the connection does not improve in a reasonable amount of time, you can contact T- Mobile\ncustomer service or refer to the section “Manual Setup: Identify An Ideal Location”.\nPrevent Overheating\nMake sure that obstacles never obstruct airflow vents on the top or bottom of the gateway’s\nenclosure. Allow at least 100mm/4in clearance on all sides of the enclosure. Ensure the gateway is\nat least 3 feet from baseboard heaters.\nIf the gateway feels hot to touch, unplug it immediately and let the device cool before plugging it in\nagain.\nT-Mobile 5G Gateway Does Not Start\nIf the gateway does not start up, verify the provided power cord is connected to an outlet. If the\ngateway is connected to an outlet and power still does not start, contact T-Mobile technical\nsupport.\nPoor Internet Experience\nIf you feel your overall internet experience is poor, try repositioning the gateway; refer to the section\n“Manual Setup: Identify An Ideal Location”.\nForget Your Admin Password?\nIf you configure a custom admin password and forget it, use the password reset function found\nwithin the T-Mobile Internet mobile app to reset the password to factory default.\nUnderstanding the LCD\nThe gateway’s LCD is located on front of the device. The LCD serves as a dashboard where you can\nquickly obtain information of the following types:\nż Connection\nż Devices\nż Language Settings\nż Messages\nPage 19\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 1764,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 20,
+    "text": "T-Mobile 5G Gateway User Guide\nPress left or right arrow ( < or > ) on the LCD panel with your finger to move between screens. The\nposition of the illuminated dot on the bottom of the screen indicates where you are in the screen\nsequence.\nThe Connection screen is the first displayed after a successful start up sequence.\nConnection\nLike your phone, the gateway displays up to five bars on its Connection screen, indicating signal\nstrength.\nThe number of bars you see represents the strength of the gateway’s current connection to the\ncellular network.\nAn X indicates the gateway is not connected to the cellular network.\nDevices\nThe Devices screen indicates how many devices are currently connected to the gateway. This is true\nfor both wireless and wired devices.\nPage 20\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 919,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 21,
+    "text": "T-Mobile 5G Gateway User Guide\nMessages\nThese messages come from the T-Mobile network and may provide outage information or other\nimportant updates.\nThe Messages screen allows you to view the message contents by pressing < and > to scroll\nbetween messages.\nTo delete a message:\n1. Press O (OK) on the panel to select VIEW MESSAGES and view unread messages\n2. Select NEXT and read next message\nPage 21\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 546,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 22,
+    "text": "T-Mobile 5G Gateway User Guide\n3. Select DONE when your read all messages\n4. Select DELETE to delete a message\n5. When prompted a message of asking you to confirm deletion, select YES to confirm\nPage 22\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 348,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 23,
+    "text": "T-Mobile 5G Gateway User Guide\nLanguage Settings\nThe gateway supports both English and Spanish on its LCD. You may change the language by doing:\n1. From the Language screen, select CHANGE\n2. From the Language screen, choose English or Español\n3. Press O (OK) on the panel to set the language\nPage 23\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 445,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 24,
+    "text": "T-Mobile 5G Gateway User Guide\nTechnical Specifications\nDimensions 191 (H) x 115 (W) x 120 (D) mm\nWeight w/power adapter 1.097 kg\n2.412 lbs\nOperating environment 0 to 40 oC\n32 to 104 oF\nIoT / GPS Bluetooth 5.1\nGPS\nPower adapter AC\nPower input 100 – 240V, 3A @ DC 15V, 50/60Hz\nTheoretical power 45 W\nconsumption\nWi-Fi connectivity 11ax 4x4 2.4G\n11ax 4x4 5G\nSeamless roaming\nSecurity WPA/WPA2/WPA3\nButtons Reset (recessed switch)\nArrow Keys (Left & Right)\nEnter (OK)\nDisplay TFT LCD Non-Touch Panel\n2.4-Inch\n240x320 Resolution\nMobile Band 5G NR: n25, n41, n66, n71\n4G LTE: B2, B4, B5, B12, B41, B46 (for RX only), B66, B71\nPhysical Interfaces GE LAN (Yellow)\nSIM Card Socket (4FF Only)\nUSB Type C x 1 (Regular Power Source)\nUSB Type C x 1 (Data and other USB Port Purpose)\nPage 24\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 924,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  },
+  {
+    "page_number": 25,
+    "text": "T-Mobile 5G Gateway User Guide\nTerms and Conditions\nt-mobile.com/responsibility/legal/terms-and-conditions\nPrivacy Policy\nt-mobile.com/privacy-center/our-practices/privacy-policy\nCustomer Support\n24/7 Tech Support Line: 1-844-275-9310\nMetro Support Line: 1-888-8Metro8\nPage 25\nNeed help? Visit https://www.t-mobile.com/internethelp\nor call T-Mobile customer service at 1-844-275-9310\nMetro support service at 1-888-8Metro8",
+    "char_count": 422,
+    "source": "CvUYJmmeNQwM9W6XY24h3g95.pdf"
+  }
+]

@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "description": "Competitive battlecards for major competitors",
+    "last_updated": "2025-11-15",
+    "classification": "Internal Use Only"
+  },
+  "competitors": [
+    {
+      "name": "Verizon Business",
+      "market_position": "Premium enterprise provider, strong brand recognition",
+      "estimated_enterprise_revenue": "$31B",
+      "key_strengths": [
+        "Strong brand recognition and trust",
+        "Extensive fiber network (Fios regions)",
+        "Mature IoT platform (ThingSpace)",
+        "International roaming coverage",
+        "Large enterprise sales force"
+      ],
+      "key_weaknesses": [
+        "Premium pricing (often highest in market)",
+        "Rural coverage gaps compared to us",
+        "Complex organizational structure slows decisions",
+        "Recent network outages damaged reputation",
+        "5G coverage trails T-Mobile in urban areas"
+      ],
+      "recent_vulnerabilities": [
+        "December 2025 outage affected Northeast for 8 hours",
+        "Q3 2025 earnings missed estimates",
+        "Enterprise customer satisfaction declined 5 points",
+        "Leadership changes in enterprise division"
+      ],
+      "how_we_win": [
+        "Emphasize rural/highway coverage superiority",
+        "Highlight our uptime vs. their recent outages",
+        "Price competitively - we're usually 10-15% lower",
+        "Faster decision-making and deployment",
+        "Dedicated account team vs. their rotation model"
+      ],
+      "how_we_lose": [
+        "Customer values brand prestige over price",
+        "Heavy Fios fiber presence in their locations",
+        "International operations are priority",
+        "Existing long-term relationship"
+      ],
+      "ideal_opportunities": [
+        "Rural/distributed organizations",
+        "Healthcare (our specialization)",
+        "Customers frustrated with Verizon support",
+        "Price-sensitive enterprises",
+        "Transportation and logistics"
+      ],
+      "avoid_opportunities": [
+        "Dense urban, fiber-heavy locations",
+        "Global enterprises needing intl coverage",
+        "Customers with 5+ year Verizon relationships"
+      ]
+    },
+    {
+      "name": "AT&T Business",
+      "market_position": "Largest enterprise telecom, strong in legacy/government",
+      "estimated_enterprise_revenue": "$34B",
+      "key_strengths": [
+        "Largest enterprise customer base",
+        "FirstNet (public safety) competitor via Band 14",
+        "Strong government contracts",
+        "Mature MPLS and legacy infrastructure",
+        "Cybersecurity services portfolio"
+      ],
+      "key_weaknesses": [
+        "Slow to innovate, legacy-focused",
+        "Customer service consistently rated lower",
+        "Network modernization behind schedule",
+        "High debt limiting investment",
+        "Complex pricing and billing"
+      ],
+      "recent_vulnerabilities": [
+        "Major data breach in Q2 2025 affected 50M records",
+        "DirecTV separation creating distraction",
+        "5G rollout slower than promised",
+        "Several high-profile contract losses to us"
+      ],
+      "how_we_win": [
+        "Faster 5G deployment and capabilities",
+        "Better customer satisfaction scores",
+        "Simpler pricing models",
+        "Highlight their security breach",
+        "More agile, modern approach"
+      ],
+      "how_we_lose": [
+        "Government contracts with incumbent advantage",
+        "Existing fiber infrastructure in customer locations",
+        "Long-term bundled contracts",
+        "Legacy system integration dependencies"
+      ],
+      "ideal_opportunities": [
+        "Companies modernizing from legacy",
+        "Those affected by AT&T data breach",
+        "5G-forward digital transformation",
+        "Healthcare and financial services",
+        "Customers with poor AT&T support experiences"
+      ],
+      "avoid_opportunities": [
+        "Deep government/defense contracts",
+        "Customers with AT&T fiber on-premises",
+        "Those heavily invested in AT&T cybersecurity stack"
+      ]
+    },
+    {
+      "name": "T-Mobile Business",
+      "market_position": "Aggressive challenger, 5G leader, SMB focus",
+      "estimated_enterprise_revenue": "$8B",
+      "key_strengths": [
+        "Fastest 5G speeds in urban areas",
+        "Aggressive pricing and flexibility",
+        "Strong brand momentum (Un-carrier)",
+        "Simplified pricing models",
+        "Growing enterprise presence post-Sprint"
+      ],
+      "key_weaknesses": [
+        "Rural coverage significantly trails us",
+        "Enterprise credibility still developing",
+        "Smaller enterprise sales team",
+        "Less mature enterprise support",
+        "Limited fiber/wireline capabilities"
+      ],
+      "recent_vulnerabilities": [
+        "2024 data breach still affecting trust",
+        "Rural coverage complaints from enterprise",
+        "Sprint integration still causing issues",
+        "Enterprise team turnover reported"
+      ],
+      "how_we_win": [
+        "Emphasize rural/suburban coverage gap",
+        "Highlight enterprise experience and support",
+        "Security and compliance credentials",
+        "Proven large enterprise deployments",
+        "Integrated wireline + wireless solutions"
+      ],
+      "how_we_lose": [
+        "Urban-only footprint where they excel",
+        "Aggressive pricing we can't match",
+        "Startup/SMB flexibility requirements",
+        "Customer prioritizes 5G speed over coverage"
+      ],
+      "ideal_opportunities": [
+        "Distributed/rural organizations",
+        "Large enterprises needing proven support",
+        "Compliance-heavy industries",
+        "Companies needing wireline + wireless",
+        "Those concerned about T-Mobile security history"
+      ],
+      "avoid_opportunities": [
+        "Urban-only footprint companies",
+        "Price-is-everything buyers",
+        "Startups wanting flexibility",
+        "Already committed T-Mobile customers"
+      ]
+    },
+    {
+      "name": "Lumen Technologies",
+      "market_position": "Enterprise fiber and networking, pivoting from legacy",
+      "estimated_enterprise_revenue": "$14B",
+      "key_strengths": [
+        "Extensive enterprise fiber network",
+        "Strong MPLS and WAN heritage",
+        "Competitive SD-WAN offering",
+        "Edge computing investments",
+        "Large enterprise relationships"
+      ],
+      "key_weaknesses": [
+        "No wireless/mobile capabilities",
+        "Company in strategic transition",
+        "Declining revenue trajectory",
+        "Reduced investment in network",
+        "Customer support issues reported"
+      ],
+      "recent_vulnerabilities": [
+        "Continued revenue decline Q3 2025",
+        "Divesting consumer business",
+        "Leadership uncertainty",
+        "Network investment reduced 20%",
+        "Customer churn increasing"
+      ],
+      "how_we_win": [
+        "Integrated wireless + wireline value",
+        "Company stability and investment",
+        "Mobile-first digital workforce",
+        "Growing vs. declining trajectory",
+        "Better support and SLAs"
+      ],
+      "how_we_lose": [
+        "Heavy fiber infrastructure already in place",
+        "Price-focused wireline-only need",
+        "Customer doesn't need mobile",
+        "Existing long-term Lumen contracts"
+      ],
+      "ideal_opportunities": [
+        "Companies adding mobile to WAN",
+        "Those concerned about Lumen's future",
+        "SD-WAN modernization projects",
+        "Unified communications needs",
+        "Organizations with remote workers"
+      ],
+      "avoid_opportunities": [
+        "Pure fiber/wireline RFPs",
+        "Customers satisfied with Lumen",
+        "Heavy on-premises data center focus"
+      ]
+    },
+    {
+      "name": "Comcast Business",
+      "market_position": "Regional cable/fiber player expanding enterprise",
+      "estimated_enterprise_revenue": "$9B",
+      "key_strengths": [
+        "Dense urban fiber footprint",
+        "Competitive pricing",
+        "Fast installation in footprint",
+        "Growing SD-WAN capabilities",
+        "Strong SMB presence"
+      ],
+      "key_weaknesses": [
+        "Limited geographic footprint",
+        "No mobile/wireless capabilities",
+        "Enterprise credibility developing",
+        "Support quality inconsistent",
+        "Consumer brand perception issues"
+      ],
+      "recent_vulnerabilities": [
+        "Enterprise growth slowing",
+        "Out-of-footprint deals challenging",
+        "Mobile partnership (Verizon MVNO) limiting",
+        "Customer satisfaction below telcos"
+      ],
+      "how_we_win": [
+        "National footprint advantage",
+        "Integrated mobile capabilities",
+        "Enterprise-grade support",
+        "Locations outside cable footprint",
+        "True 5G vs. MVNO offering"
+      ],
+      "how_we_lose": [
+        "Dense urban, in-footprint deals",
+        "Aggressive pricing matches",
+        "Customer doesn't need mobile",
+        "Fast installation is priority"
+      ],
+      "ideal_opportunities": [
+        "Multi-state organizations",
+        "Mobile-first workforces",
+        "Companies outside cable footprint",
+        "Those needing true wireless",
+        "Enterprise-grade SLA requirements"
+      ],
+      "avoid_opportunities": [
+        "Single-city, in-footprint customers",
+        "Price-only decisions",
+        "SMB with simple needs"
+      ]
+    }
+  ]
+}

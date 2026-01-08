@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "description": "Product and service strengths/weaknesses analysis",
+    "last_updated": "2025-12-01",
+    "company": "Our Company (Telco Provider)"
+  },
+  "strengths": [
+    {
+      "category": "Network Coverage",
+      "strength": "Rural and Highway Coverage",
+      "description": "Industry-leading coverage in rural areas and along major highways",
+      "evidence": ["98.5% population coverage", "Best-in-class highway coverage per RootMetrics", "450,000+ rural cell sites"],
+      "best_for_industries": ["Healthcare", "Transportation & Logistics", "Government", "Energy & Utilities"],
+      "talking_points": [
+        "We cover areas competitors simply don't reach",
+        "Critical for distributed workforces and field operations",
+        "No dead zones on major transportation routes"
+      ]
+    },
+    {
+      "category": "Network Coverage",
+      "strength": "5G Nationwide Deployment",
+      "description": "Extensive 5G coverage including mid-band spectrum",
+      "evidence": ["5G available in 500+ cities", "C-band deployed in 200+ markets", "Average 5G speeds of 150+ Mbps"],
+      "best_for_industries": ["Technology", "Manufacturing", "Retail"],
+      "talking_points": [
+        "Real 5G, not just rebranded 4G",
+        "Mid-band spectrum delivers both speed and coverage",
+        "Future-proof network investment"
+      ]
+    },
+    {
+      "category": "Security",
+      "strength": "Zero-Trust Security Architecture",
+      "description": "Comprehensive security framework with built-in threat protection",
+      "evidence": ["SOC 2 Type II certified", "FedRAMP authorized", "24/7 Security Operations Center"],
+      "best_for_industries": ["Financial Services", "Healthcare", "Government"],
+      "talking_points": [
+        "Security built into the network, not bolted on",
+        "Meets stringent compliance requirements",
+        "Proactive threat detection and response"
+      ]
+    },
+    {
+      "category": "Enterprise Solutions",
+      "strength": "SD-WAN Leadership",
+      "description": "Mature SD-WAN platform with rapid deployment capabilities",
+      "evidence": ["10,000+ SD-WAN deployments", "Average 30-day deployment", "99.99% platform uptime"],
+      "best_for_industries": ["Financial Services", "Retail", "Healthcare"],
+      "talking_points": [
+        "Proven at scale across diverse industries",
+        "Fastest time-to-deploy in market",
+        "Unified management across all sites"
+      ]
+    },
+    {
+      "category": "Enterprise Solutions",
+      "strength": "Private LTE/5G Networks",
+      "description": "Purpose-built private wireless networks for enterprise",
+      "evidence": ["50+ private network deployments", "CBRS and licensed spectrum options", "Edge computing integration"],
+      "best_for_industries": ["Manufacturing", "Energy & Utilities", "Transportation & Logistics"],
+      "talking_points": [
+        "Dedicated capacity for critical operations",
+        "Full control over network prioritization",
+        "Integrates with existing OT systems"
+      ]
+    },
+    {
+      "category": "Vertical Expertise",
+      "strength": "Healthcare Specialization",
+      "description": "Deep expertise in healthcare connectivity and compliance",
+      "evidence": ["500+ healthcare customers", "HIPAA BAA standard", "Epic/Cerner certified integrations"],
+      "best_for_industries": ["Healthcare"],
+      "talking_points": [
+        "We understand healthcare workflows",
+        "Pre-built EHR integrations save months",
+        "Compliance is our baseline, not an add-on"
+      ]
+    },
+    {
+      "category": "Vertical Expertise",
+      "strength": "Government/FirstNet Partnership",
+      "description": "Exclusive FirstNet partner for first responder communications",
+      "evidence": ["FirstNet authority partnership", "3M+ FirstNet subscribers", "Band 14 priority access"],
+      "best_for_industries": ["Government"],
+      "talking_points": [
+        "Only carrier with dedicated first responder network",
+        "Priority and preemption during emergencies",
+        "Proven in major disaster responses"
+      ]
+    },
+    {
+      "category": "Support",
+      "strength": "Dedicated Account Teams",
+      "description": "Named account managers and technical resources for enterprise",
+      "evidence": ["4.5/5 customer satisfaction", "2-hour response SLA for critical issues", "Regional support presence in 50 states"],
+      "best_for_industries": ["All"],
+      "talking_points": [
+        "You'll know your team by name",
+        "Local presence means faster resolution",
+        "Proactive account reviews quarterly"
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "category": "Pricing",
+      "weakness": "Premium Pricing",
+      "description": "Generally 10-20% higher than competitors on comparable services",
+      "mitigation": "Emphasize TCO, reliability, and support value. Offer multi-year discounts.",
+      "vulnerable_against": ["T-Mobile Business", "Comcast Business"],
+      "industries_at_risk": ["Education", "Small/Mid Retail", "Startups"]
+    },
+    {
+      "category": "Network Coverage",
+      "weakness": "Urban 5G Speed",
+      "description": "T-Mobile leads in urban 5G speeds due to spectrum holdings",
+      "mitigation": "Focus on coverage breadth vs. peak speed. Emphasize consistency.",
+      "vulnerable_against": ["T-Mobile Business"],
+      "industries_at_risk": ["Technology", "Media"]
+    },
+    {
+      "category": "Enterprise Solutions",
+      "weakness": "IoT Platform Maturity",
+      "description": "IoT platform less mature than AT&T's after their acquisitions",
+      "mitigation": "Partner ecosystem approach. Emphasize openness and flexibility.",
+      "vulnerable_against": ["AT&T Business"],
+      "industries_at_risk": ["Manufacturing", "Transportation & Logistics"]
+    },
+    {
+      "category": "Market Presence",
+      "weakness": "International Roaming",
+      "description": "Less comprehensive international roaming than Verizon or AT&T",
+      "mitigation": "Wi-Fi calling emphasis. Partner roaming agreements improving.",
+      "vulnerable_against": ["Verizon Business", "AT&T Business"],
+      "industries_at_risk": ["Technology", "Manufacturing with global ops"]
+    },
+    {
+      "category": "Flexibility",
+      "weakness": "Contract Flexibility",
+      "description": "Enterprise contracts less flexible than T-Mobile's offerings",
+      "mitigation": "New flexible enterprise program launching Q1 2026.",
+      "vulnerable_against": ["T-Mobile Business"],
+      "industries_at_risk": ["Startups", "Small Business"]
+    }
+  ]
+}

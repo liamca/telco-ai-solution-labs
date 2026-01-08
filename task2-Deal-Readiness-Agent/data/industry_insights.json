@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "description": "Industry-specific insights and win patterns",
+    "last_updated": "2025-12-01"
+  },
+  "industries": [
+    {
+      "name": "Healthcare",
+      "our_win_rate": "72%",
+      "total_deals_last_12_months": 45,
+      "average_deal_size": 1850000,
+      "key_decision_makers": ["CIO", "CISO", "VP of Clinical Operations", "CFO"],
+      "buying_triggers": [
+        "HIPAA audit findings",
+        "Telehealth expansion",
+        "EHR migration or upgrade",
+        "Merger/acquisition integration",
+        "Rural clinic expansion"
+      ],
+      "critical_requirements": [
+        "HIPAA compliance and BAA",
+        "99.99% uptime for clinical systems",
+        "EHR integration (Epic, Cerner, Meditech)",
+        "Telehealth video quality",
+        "Medical device connectivity"
+      ],
+      "our_advantages": [
+        "Healthcare-dedicated support team",
+        "Pre-built Epic/Cerner integrations",
+        "Rural coverage for clinics",
+        "Proven telehealth deployments",
+        "HIPAA compliance standard"
+      ],
+      "competitor_threats": {
+        "Verizon Business": "Premium brand in large health systems",
+        "AT&T Business": "Legacy relationships in older hospitals",
+        "Lumen Technologies": "Existing fiber in urban medical centers"
+      },
+      "winning_strategies": [
+        "Lead with compliance and security",
+        "Demonstrate EHR integration early",
+        "Reference similar healthcare wins",
+        "Emphasize rural clinic coverage",
+        "Offer proof-of-concept for telehealth"
+      ],
+      "common_objections": [
+        {
+          "objection": "We've been with [competitor] for 10 years",
+          "response": "We understand relationship value. Let's start with a pilot in one facility to demonstrate our healthcare expertise without disrupting existing operations."
+        },
+        {
+          "objection": "Your price is higher than AT&T",
+          "response": "When you factor in our included HIPAA compliance, EHR integrations, and healthcare-dedicated support, the TCO is actually lower. Let me show you a comparison."
+        }
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "our_win_rate": "68%",
+      "total_deals_last_12_months": 38,
+      "average_deal_size": 2400000,
+      "key_decision_makers": ["CIO", "CISO", "COO", "VP of Branch Operations"],
+      "buying_triggers": [
+        "Branch modernization",
+        "Security incident (theirs or industry)",
+        "Regulatory audit findings",
+        "Digital transformation initiative",
+        "M&A integration"
+      ],
+      "critical_requirements": [
+        "PCI-DSS compliance",
+        "Zero-trust security architecture",
+        "Branch failover capabilities",
+        "Low-latency trading connectivity",
+        "Disaster recovery/geographic diversity"
+      ],
+      "our_advantages": [
+        "Zero-trust security built-in",
+        "SD-WAN for branch transformation",
+        "Geographic diversity for DR",
+        "SOC 2 and PCI certifications",
+        "Proven financial services deployments"
+      ],
+      "competitor_threats": {
+        "Verizon Business": "Brand trust in conservative institutions",
+        "AT&T Business": "Existing MPLS infrastructure",
+        "Lumen Technologies": "Low-latency fiber for trading"
+      },
+      "winning_strategies": [
+        "Lead with security and compliance",
+        "Emphasize DR and geographic diversity",
+        "Show SD-WAN ROI for branches",
+        "Reference recent financial services wins",
+        "Highlight competitor security incidents"
+      ],
+      "common_objections": [
+        {
+          "objection": "We need proven stability, not the newest technology",
+          "response": "Our security architecture has been battle-tested across 200+ financial institutions. Let me share references from similar organizations who valued stability as much as you do."
+        },
+        {
+          "objection": "AT&T already has fiber in our data centers",
+          "response": "We can complement your existing fiber with our wireless backup and branch connectivity. Many of our financial customers use a dual-provider strategy for resilience."
+        }
+      ]
+    },
+    {
+      "name": "Government",
+      "our_win_rate": "65%",
+      "total_deals_last_12_months": 28,
+      "average_deal_size": 3200000,
+      "key_decision_makers": ["CIO", "IT Director", "Procurement Officer", "Agency Head"],
+      "buying_triggers": [
+        "Contract expiration",
+        "FirstNet/public safety needs",
+        "Infrastructure modernization grants",
+        "Cybersecurity mandates",
+        "Remote work enablement"
+      ],
+      "critical_requirements": [
+        "FedRAMP authorization",
+        "FirstNet compatibility",
+        "CJIS compliance (law enforcement)",
+        "Geographic coverage for field workers",
+        "Competitive procurement compliance"
+      ],
+      "our_advantages": [
+        "FirstNet partnership (exclusive)",
+        "FedRAMP authorized solutions",
+        "Extensive rural coverage for field ops",
+        "Government-dedicated account teams",
+        "Proven state/local deployments"
+      ],
+      "competitor_threats": {
+        "Verizon Business": "Long-standing federal contracts",
+        "AT&T Business": "FirstNet alternative positioning",
+        "Lumen Technologies": "Existing government fiber contracts"
+      },
+      "winning_strategies": [
+        "Leverage FirstNet for public safety",
+        "Emphasize FedRAMP and compliance",
+        "Show coverage maps for jurisdiction",
+        "Navigate procurement process expertly",
+        "Provide government-specific references"
+      ],
+      "common_objections": [
+        {
+          "objection": "We're required to use the existing state contract",
+          "response": "We're on [X] state contracts and GSA Schedule. Let's review which vehicles give you the best pricing and compliance path."
+        },
+        {
+          "objection": "AT&T has been our provider for 15 years",
+          "response": "We understand incumbent relationships. Our FirstNet capabilities offer something AT&T cannot match for your public safety agencies. Let's start there."
+        }
+      ]
+    },
+    {
+      "name": "Retail",
+      "our_win_rate": "58%",
+      "total_deals_last_12_months": 32,
+      "average_deal_size": 1600000,
+      "key_decision_makers": ["CIO", "VP of Store Operations", "CFO", "VP of IT Infrastructure"],
+      "buying_triggers": [
+        "Store expansion or remodel",
+        "POS system upgrade",
+        "Omnichannel initiative",
+        "Network outages affecting sales",
+        "Cost reduction mandate"
+      ],
+      "critical_requirements": [
+        "PCI-DSS compliance",
+        "High availability for POS",
+        "Rapid deployment for new stores",
+        "Consistent connectivity across locations",
+        "Cellular backup for transactions"
+      ],
+      "our_advantages": [
+        "National footprint for chain stores",
+        "4G/5G failover for POS",
+        "Rapid store deployment capability",
+        "Proven retail deployments",
+        "Single provider across all states"
+      ],
+      "competitor_threats": {
+        "Comcast Business": "Aggressive urban pricing",
+        "Verizon Business": "Premium brand for luxury retail",
+        "Regional providers": "Local pricing pressure"
+      },
+      "winning_strategies": [
+        "Emphasize national consistency",
+        "Show POS uptime statistics",
+        "Demonstrate rapid deployment",
+        "Calculate cost of downtime",
+        "Reference similar retail wins"
+      ],
+      "common_objections": [
+        {
+          "objection": "Comcast is 30% cheaper for our urban stores",
+          "response": "Comcast can't cover your suburban and rural locations consistently. A single provider eliminates finger-pointing and simplifies management. Let me show you the hidden costs of multiple providers."
+        },
+        {
+          "objection": "We need stores live in 2 weeks",
+          "response": "Our retail deployment team has delivered 2-week installations for [Reference Customer]. We have pre-staged equipment and dedicated retail project managers."
+        }
+      ]
+    },
+    {
+      "name": "Manufacturing",
+      "our_win_rate": "52%",
+      "total_deals_last_12_months": 22,
+      "average_deal_size": 1900000,
+      "key_decision_makers": ["CIO", "VP of Operations", "Plant Manager", "VP of Supply Chain"],
+      "buying_triggers": [
+        "Industry 4.0/smart factory initiative",
+        "New plant construction",
+        "IoT/sensor deployment",
+        "Supply chain visibility project",
+        "OT/IT convergence"
+      ],
+      "critical_requirements": [
+        "Private LTE/5G capabilities",
+        "Ultra-low latency for automation",
+        "IoT platform integration",
+        "Coverage in industrial environments",
+        "OT security requirements"
+      ],
+      "our_advantages": [
+        "Private LTE/5G expertise",
+        "Industrial environment experience",
+        "Edge computing capabilities",
+        "Partner ecosystem for IoT"
+      ],
+      "competitor_threats": {
+        "AT&T Business": "More mature IoT platform",
+        "Verizon Business": "ThingSpace IoT ecosystem",
+        "Local fiber providers": "Plant-specific fiber"
+      },
+      "winning_strategies": [
+        "Lead with private wireless capabilities",
+        "Demonstrate manufacturing references",
+        "Partner with IoT platform providers",
+        "Show edge computing use cases",
+        "Emphasize OT security expertise"
+      ],
+      "common_objections": [
+        {
+          "objection": "AT&T's IoT platform is more mature",
+          "response": "Our open platform approach lets you choose best-of-breed IoT solutions rather than being locked into one vendor. We integrate with all major industrial IoT platforms."
+        },
+        {
+          "objection": "We need private 5G but you're expensive",
+          "response": "Private 5G is an investment in operational efficiency. Let me show you ROI cases from similar manufacturers who achieved payback in 18 months through reduced downtime and improved automation."
+        }
+      ]
+    },
+    {
+      "name": "Transportation & Logistics",
+      "our_win_rate": "71%",
+      "total_deals_last_12_months": 18,
+      "average_deal_size": 2200000,
+      "key_decision_makers": ["CIO", "VP of Fleet Operations", "COO", "VP of Supply Chain"],
+      "buying_triggers": [
+        "Fleet management modernization",
+        "ELD compliance requirements",
+        "Real-time visibility initiative",
+        "Driver safety program",
+        "Fuel efficiency optimization"
+      ],
+      "critical_requirements": [
+        "Nationwide highway coverage",
+        "Real-time GPS tracking accuracy",
+        "In-cab connectivity",
+        "IoT for trailer/asset tracking",
+        "Low latency for route optimization"
+      ],
+      "our_advantages": [
+        "Best highway coverage in industry",
+        "Integrated fleet management",
+        "Real-time tracking accuracy",
+        "Driver tablet/device programs",
+        "Logistics-specific solutions"
+      ],
+      "competitor_threats": {
+        "Verizon Business": "NetworkFleet acquisition",
+        "AT&T Business": "Fleet Complete partnership"
+      },
+      "winning_strategies": [
+        "Lead with highway coverage maps",
+        "Demonstrate fleet management platform",
+        "Show real-time tracking accuracy",
+        "Reference transportation wins",
+        "Calculate fuel savings potential"
+      ],
+      "common_objections": [
+        {
+          "objection": "Verizon has NetworkFleet which is industry standard",
+          "response": "Our fleet platform offers the same capabilities with better underlying coverage. Your drivers spend hours in areas where Verizon has gaps. Let me show you coverage comparison on your actual routes."
+        },
+        {
+          "objection": "We're locked into a 3-year telematics contract",
+          "response": "We can start with connectivity and gradually migrate telematics. Many customers run parallel for 6 months during transition. We'll help manage the migration."
+        }
+      ]
+    }
+  ]
+}
