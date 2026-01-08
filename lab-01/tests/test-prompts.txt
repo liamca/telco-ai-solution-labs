@@ -1,0 +1,6 @@
+1) Get me the details for service ticket # TKT-2024-007234
+2) customer states that internet keeps dropping. Are there any recent tickets where other customers reported the same problem?
+3) Create a new service ticket with the following information.
+Customer's name is John Smith. His Phone no. is "+1-555-0123" & email ID is john.smith@email.com .
+Brief description of the problem as quoted by the customer: Internet is not working since this morning.
+Details of the problem given by customer: My internet connection has been down since 8 AM today. I've tried restarting the router multiple times but nothing works. The internet light is red. I work from home and need this fixed urgently.

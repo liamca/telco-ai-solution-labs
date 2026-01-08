@@ -1,0 +1,21 @@
+{
+  "version": "2.0",
+  "extensionBundle": {
+    "id": "Microsoft.Azure.Functions.ExtensionBundle",
+    "version": "[4.0.0, 5.0.0)"
+  },
+  "extensions": {
+    "mcp": {
+      "instructions": "This MCP server contains functions for searching issue tickets repository, retrieving ticket details, updating ticket status & creating new tickets.",
+      "serverName": "telco-issue-ticket-mcp-server",
+      "serverVersion": "2.0.0",
+      "encryptClientState": false,
+      "messageOptions": {
+        "useAbsoluteUriForEndpoint": false
+      },
+      "system": {
+        "webhookAuthorizationLevel": "Anonymous"
+      }
+    }
+  }
+}

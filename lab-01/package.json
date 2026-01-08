@@ -1,0 +1,14 @@
+{
+  "name": "telco-func-callcenter-api",
+  "version": "1.0.0",
+  "description": "A function app that exposes MCP server tools for creating and updating customer support tickets",
+  "main": "mcpServerFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Radhakrishnan",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/functions": "^4.10.0"
+  }
+}
