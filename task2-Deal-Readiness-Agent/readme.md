@@ -147,9 +147,6 @@ The `data/` folder contains the proprietary datasets for the **Internal Intellig
 "What's our win rate against Verizon in Healthcare?"
 → Query win_loss_records.json + industry_insights.json
 
-"What are T-Mobile's weaknesses we can exploit?"
-→ Query competitor_battlecards.json
-
 "How should we position against AT&T's IoT platform?"
 → Query product_strengths.json + competitor_battlecards.json
 
